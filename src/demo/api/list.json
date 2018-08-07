@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "name": "js",
+    "price": 149,
+    "discount": 1
+  },
+  {
+    "id": 2,
+    "name": "css",
+    "price": 119,
+    "discount": 1
+  },
+  {
+    "id": 3,
+    "name": "html",
+    "price": 69,
+    "discount": 0
+  }
+]
